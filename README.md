@@ -11,4 +11,4 @@ I'm a prep student currently on a journey to master Python through the **100 Day
 ---
 
 ### Daily Progress (100 Days of Code)
-You can track my daily Python progress and projects in my dedicated repository here: [100-Days-of-Code-Python-Course](./100-Days-of-Code-Python-Course)
+You can track my daily Python progress and projects in my dedicated repository here: [100-Days-of-Code-Python-Course](https://github.com/ErkutayDuman/100-Days-of-Code-Python-Course)
