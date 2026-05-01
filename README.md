@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Erkutay Duman! 
 
-<!--
-**ErkutayDuman/ErkutayDuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a prep student currently on a journey to master Python through the **100 Days of Code** challenge.
 
-Here are some ideas to get you started:
+### My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErkutayDuman&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErkutayDuman&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### Daily Progress (100 Days of Code)
+You can track my daily Python progress and projects in my dedicated repository here: [100-Days-of-Code-Python-Course](./100-Days-of-Code-Python-Course)
