@@ -6,7 +6,7 @@ I'm a prep student currently on a journey to master Python through the **100 Day
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErkutayDuman&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErkutayDuman&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErkutayDuman&theme=tokyonight)
 
 ---
 
